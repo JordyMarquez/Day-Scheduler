@@ -8,7 +8,7 @@ The purpose of this challenge is to refractor an original code to look more like
 
 
 The following animation demonstrates the application functionality:
-<img src="preview.png">
+<img src="Preview.png">
 
 
 ## Link
