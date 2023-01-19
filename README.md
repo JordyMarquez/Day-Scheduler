@@ -12,5 +12,5 @@ The following animation demonstrates the application functionality:
 
 
 ## Link
-To check out the code, right click anywhere on the page and click inspect. Here's the link to the site: 
+To check out the code, right click anywhere on the page and click inspect. Here's the link to the site: https://jordymarquez.github.io/Day-Scheduler/
 
